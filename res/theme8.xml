@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="7" useXmlUI="false">
+    <image name="213.png"  />
+    <image name="23.jpg"  />
+    <image name="55.jpg"  />
+    <image name="99.PNG"  />
+    <image name="aa.jpg"  />
+    <image name="BackgroundRect.png" type="multi"  />
+    <image name="Capture.PNG"  />
+    <image name="comdesc.borderBottom_1.png" type="multi"  />
+    <image name="comdesc.borderBottom_2.png" type="multi"  />
+    <image name="comdesc.borderBottomL_1.png" type="multi"  />
+    <image name="comdesc.borderBottomL_2.png" type="multi"  />
+    <image name="comdesc.borderBottomR_2.png" type="multi"  />
+    <image name="comdesc.borderCenter_1.png" type="multi"  />
+    <image name="comdesc.borderLeft_1.png" type="multi"  />
+    <image name="comdesc.borderLeft_2.png" type="multi"  />
+    <image name="comdesc.borderRight_1.png" type="multi"  />
+    <image name="comdesc.borderRight_2.png" type="multi"  />
+    <image name="comdesc.borderTop_1.png" type="multi"  />
+    <image name="comdesc.borderTop_2.png" type="multi"  />
+    <image name="comdesc.borderTopL_1.png" type="multi"  />
+    <image name="comdesc.borderTopR_1.png" type="multi"  />
+    <image name="comdesc.borderTopR_2.png" type="multi"  />
+    <image name="comm.png"  />
+    <image name="CS.png"  />
+    <image name="cv.jpg"  />
+    <image name="dd.jpg"  />
+    <image name="details.png"  />
+    <image name="details_1.png"  />
+    <image name="dfr.PNG"  />
+    <image name="DT.png"  />
+    <image name="duke.png" type="multi"  />
+    <image name="gf.jpg"  />
+    <image name="gg.jpg"  />
+    <image name="gradient-overlay.png"  />
+    <image name="heart-plus-icon.png"  />
+    <image name="ii.jpg"  />
+    <image name="imagebb.jpg"  />
+    <image name="images.png"  />
+    <image name="liste2.png"  />
+    <image name="liste3.png"  />
+    <image name="ll.jpg"  />
+    <image name="login-background.jpg"  />
+    <image name="logo.png"  />
+    <image name="logo2.png"  />
+    <image name="med.jpg"  />
+    <image name="new.jpg"  />
+    <image name="NewsImage.png"  />
+    <image name="notes.png" type="multi"  />
+    <image name="original.jpg"  />
+    <image name="original_1.jpg"  />
+    <image name="reload.png"  />
+    <image name="round-mask.png" type="multi"  />
+    <image name="selected-walkthru.png" type="multi"  />
+    <image name="sidemenu-top.png" type="multi"  />
+    <image name="text-field-underline.png"  />
+    <image name="trash_can-512.png"  />
+    <image name="tt.jpg"  />
+    <image name="unselected-walkthru.png" type="multi"  />
+    <image name="user-picture.jpg"  />
+    <image name="uu.jpg"  />
+    <image name="vv.PNG"  />
+    <image name="white.png"  />
+</resource>
